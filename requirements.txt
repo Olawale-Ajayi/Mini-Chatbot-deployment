@@ -1,0 +1,78 @@
+# ===========================
+# Core numerical & data handling
+# ===========================
+numpy
+pandas
+scipy
+statsmodels
+
+# ===========================
+# Machine Learning
+# ===========================
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# ===========================
+# Deep Learning
+# ===========================
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# ===========================
+# Natural Language Processing
+# ===========================
+nltk
+spacy
+transformers
+sentence-transformers
+gensim
+
+# ===========================
+# Generative AI & LLMs
+# ===========================
+openai
+langchain
+llama-index
+huggingface-hub
+
+# ===========================
+# Data Visualization
+# ===========================
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+
+# ===========================
+# Data Engineering & Big Data
+# ===========================
+sqlalchemy
+pyarrow
+dask
+polars
+pyspark
+
+# ===========================
+# Model Explainability & Monitoring
+# ===========================
+shap
+lime
+mlflow
+evidently
+
+# ===========================
+# Utilities & Productivity
+# ===========================
+joblib
+tqdm
+jupyter
+notebook
+ipykernel
+python-dotenv
+requests
